@@ -5,7 +5,6 @@
  * code to start failing with new warnings! (And if we do, then that needs to be a MAJOR
  * VERSION BUMP.)
  */
-
 var crossSpawn = require('cross-spawn')
 var fs = require('fs')
 var minimist = require('minimist')
